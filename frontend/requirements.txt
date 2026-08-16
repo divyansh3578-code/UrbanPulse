@@ -1,2 +1,5 @@
+npm install
 npm install framer-motion
 npm install vanta three  
+npm run dev
+
